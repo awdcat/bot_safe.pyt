@@ -1,0 +1,6 @@
+Flask
+discord.py
+discord.py[voice]
+flask
+gunicorn
+python-dotenv
