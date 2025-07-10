@@ -66,7 +66,7 @@ async def leave(ctx):
 
 def run_bot():
     asyncio.set_event_loop(loop)
-    loop.run_until_complete(bot.start(TOKEN))
+    loop.run_until_complete(bot.start(MTM4MjQ2Mjk1MTAwNDMwNzUwNg.GQfe9N.V6_IUuGSEVsUm1Jdo3-lKxboJQhnvzbsnMH6vE))
 
 if __name__ == '__main__':
     threading.Thread(target=run_bot).start()
