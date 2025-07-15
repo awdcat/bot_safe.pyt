@@ -8,7 +8,7 @@ import discord
 from discord.ext import commands
 
 load_dotenv()
-TOKEN = os.getenv("MTM4MjQ2Mjk1MTAwNDMwNzUwNg.GQfe9N.V6_IUuGSEVsUm1Jdo3-lKxboJQhnvzbsnMH6vE")
+TOKEN = os.getenv("MTM4MjQ2Mjk1MTAwNDMwNzUwNg.GfFxMu.hNFGr6Gz3Haes7whEtkheCfsUctZoWNV-EyjF4")
 
 intents = discord.Intents.default()
 intents.message_content = True
